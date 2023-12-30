@@ -1,0 +1,56 @@
+.h21{
+ text-align: center;   
+
+}
+.p1{
+    text-align: center;
+}
+.p6{
+    text-decoration: line-through;
+    color: #ccc;
+    text-align: center;
+}
+.p7{
+    text-decoration: line-through;
+    color: #ccc; 
+    text-align: center; 
+}
+.b1{
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+.div5{
+    display: flex;
+    justify-content: space-around;
+}
+.span{
+    color: #ccc;
+}
+.b1:hover{
+background-color: blue;
+}
+.div3{
+    border: 2px solid blue;
+    padding: 60px 60px;
+    background-color: #f9f9f9f9 f9;
+   border-radius: 25px;
+}
+.div3 p{
+    text-align: center;
+}
+.h22{
+    text-align: center;
+}
+.h23{
+    text-align: center;
+}
+.h24{
+    text-align: center;
+}
+
+.s1{
+    font-size: 30px;
+    color: blue;
+}
